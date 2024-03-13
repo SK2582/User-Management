@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+input, button {
+  margin: 5px;
+}
+
+td + td {
+  border-left: 1px solid #dee2e6;
+}
